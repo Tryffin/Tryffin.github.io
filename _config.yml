@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: baoyining12@gmail.com
 description: "Coastline"
 keyword: "Tryffin"
-url: "http://Kzel.github.io"          # your host, for absolute URL
+url: "http://tryffin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Kzel/Kzel.github.io.git" # you code repository
+github_repo: "https://github.com/Tryffin/Tryffin.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,10 +18,10 @@ sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's use
 
 # SNS settings
 RSS: false
-weibo_username:     2005939591
-zhihu_username:     Kzel
-github_username:    Kzel
-facebook_username:  baoyining
+#weibo_username:
+#zhihu_username:
+github_username:    Tryffin
+#facebook_username:  
 #jianshu_username:   暂无
 #twitter_username:   暂无
 
@@ -62,8 +62,8 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID:                             #生成的clientID
   clientSecret:     #生成的clientSecret
-  repo: Kzel.github.io    #仓库名称
-  owner: Kzel     #github用户名
+  repo: Tryffin.github.io    #仓库名称
+  owner: Tryffin     #github用户名
   admin: 
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
